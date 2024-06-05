@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋,  I'm Andrii</h1>
+<h3 align="left">Hi 👋,  I'm Andrii</h3>
 <h3 align="left">Bachelor Informatics Student At TUM</h3>
 
 - 🌱 I’m currently learning **JavaScript**
